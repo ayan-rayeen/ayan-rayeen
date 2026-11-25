@@ -60,14 +60,12 @@ CGPA: 8.35/10.0
 📜 Certifications
 - AWS Certified Solutions Architect – Associate
 - Microsoft Certified: Azure AI Engineer Associate
-📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samm10&amp;show_icons=true&amp;theme=transparent" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samm10&amp;layout=compact&amp;theme=transparent" alt="Most used languages" />
+
+
 </p>📫 Let's Connect
 - LinkedIn: Ayan Rayeen
 - Email: ayansameer60@gmail.com
 - GitHub: @samm10
 
-
-<p align="center"><i>Building scalable software. Automating workflows. Exploring intelligent systems.</i></p>
+<p> </p>
+<p><i>Building scalable software. Automating workflows. Exploring intelligent systems.</i></p>
