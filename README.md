@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer based in Navi Mumbai, India, passionate about building scalable backend systems, cloud-native applications and intelligent automation solutions. My interests span .NET development, microservices, distributed systems, generative AI and agentic workflows.
+I'm a Software Engineer with 3+ years of hands-on experience based in Navi Mumbai, India, passionate about building scalable backend systems, cloud-native applications and intelligent automation solutions. My interests span .NET development, microservices, distributed systems, generative AI and agentic workflows.
 
 - 💼 Working at Capgemini since January 2024.
 - 🤖 Developing AI agents, RAG applications and business process automation.
