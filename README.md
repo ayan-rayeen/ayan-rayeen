@@ -6,8 +6,8 @@
   <a href="https://linkedin.com/in/ayan-rayeen-082280194">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/samm10">
-    <img src="https://img.shields.io/badge/GitHub-samm10-181717?style=for-the-badge&logo=github" alt="GitHub">
+  <a href="https://github.com/ayan-rayeen">
+    <img src="https://img.shields.io/badge/GitHub-ayan-rayeen-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <a href="mailto:ayansameer60@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -111,7 +111,7 @@ A cloud-native platform for rental and paying guest accommodation management, ex
 
 - LinkedIn: Ayan Rayeen
 - Email: ayansameer60@gmail.com
-- GitHub: @samm10
+- GitHub: @ayan-rayeen
 
 ---
 
